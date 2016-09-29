@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">机遇检测器</string>
+    <string name="title_activity_clock">ClockActivity</string>
+</resources>
